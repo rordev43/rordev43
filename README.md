@@ -6,7 +6,7 @@
 
 - 💬 Ask me about **Ruby on rails / React.js**
 
-- 📫 How to reach me **angelfeliciano206@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
